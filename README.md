@@ -1,8 +1,4 @@
 # passcode-generator
-<<<<<<< HEAD
-
-image.png
-=======
 This project was designed for week 3 challenge of the UC Berkeley Extension coding bootcamp.
 
 This application utilizes mainly Javascript to generate a random, secure password for the users.
@@ -57,4 +53,3 @@ DEMO:
 
 
 
->>>>>>> 92b0e4d7d8f379d2cc5c8415796eddd3651658c5
